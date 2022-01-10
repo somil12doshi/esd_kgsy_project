@@ -1,0 +1,38 @@
+.formPage{
+    background-color: #aba26b;
+    height: 70vh;
+    width: 100vw;
+}
+
+.form{
+    position: relative;
+    top: 10%;
+    height: 50%;
+    width: 50%;
+    margin: auto;
+    justify-content: center;
+}
+
+.btn-form{
+    padding: 10px 20px;
+    border-radius: 20px;
+    background-color: brown;
+    text-decoration: none;
+    color: white;
+}
+
+ #floatingInput{
+     color: white;
+     background-color: rgb(122 29 29);
+     border-radius: 20px;
+ }
+
+label{
+    color: white;
+}
+
+.form-select{
+    background-color: rgb(122 29 29);
+    border-radius: 20px;
+    color: white;
+}
