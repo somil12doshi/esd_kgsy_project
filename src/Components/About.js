@@ -10,7 +10,7 @@ export default function About() {
                 <Zoom top >
                     <h1>About Us</h1>
                     <hr />
-                    <h4>ESD Project by SE IT-A</h4>
+                    {/* <h4>ESD Project by SE IT-A</h4> */}
                 </Zoom>
                 <div className="content">
 
