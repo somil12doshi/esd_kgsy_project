@@ -36,7 +36,7 @@ ul{
 }
 .left{
     position: relative;
-    top: -175px;
+    top: 0px;
     left: 14vw;
 }
 /* .left{
@@ -49,7 +49,7 @@ img{
     width: 200px;
     position: relative;
     left: 69vw;
-    top: -300px;
+    top: -135px;
 }
 /* img{
     width: 200px;

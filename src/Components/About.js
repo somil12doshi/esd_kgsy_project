@@ -16,10 +16,7 @@ export default function About() {
 
                     <Zoom bottom cascade>
                         <ul className="mid">
-                            <li>Somil Doshi  - 15</li>
-                            <li>Aditya Joshi  - 34</li>
-                            <li>Dhruvi Jivani  - 33</li>
-                            <li>Riti Moradiya  - 51</li>
+                            
                         </ul>
                     </Zoom>
 
@@ -28,10 +25,9 @@ export default function About() {
 
                             <p><b>Presented by,</b></p>
                             <ul>
-                                <li>Kailash Ahir    - 2</li>
-                                <li>Krishna Desai    - 10</li>
                                 <li>Preet Desai    - 11</li>
-                                <li>Hemin Dhamelia  - 13</li>
+                                <li>Ronak Dhakad  - 12</li>
+                                <li>Somil Doshi  - 15</li>
                             </ul>
                         </div>
                     </Zoom>
@@ -41,7 +37,7 @@ export default function About() {
                 </div>
             </div>
             <div className="footer">
-                <p>Copyright &copy; https://kgsy.netlify.app <br />All rights reserved!</p>
+                <p>Copyright &copy; https://sd-kgsy.netlify.app <br />All rights reserved!</p>
             </div>
         </div>
     )
